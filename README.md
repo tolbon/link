@@ -3,6 +3,7 @@ Pense bete de videos a regarder :
 
 Network
 - [Les Confs de Julia Evans](https://www.youtube.com/results?search_query=julia+evans) (en)
+- [Arun Gupta](https://www.youtube.com/results?search_query=Arun+Gupta)
 - Quentin Adam dnas toutes les confs et tous les employées ou ex employés de Clever Cloud
 - [Clever Cloud](https://www.youtube.com/c/Clevercloud-platform/playlists)
 - [Chaine de Harvard Computer Science](https://www.youtube.com/user/cs50tv) plus particulierement quand c'est David Malan
